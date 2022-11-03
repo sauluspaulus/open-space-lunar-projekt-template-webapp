@@ -3,4 +3,4 @@
 
 Readme podman Schritte zum erstellen und ausführen des Container images:
 
-$ podman build https://github.com/sauluspaulus/open-space-lunar-projekt-template-webapp
+$ podman build -t https://github.com/sauluspaulus/open-space-lunar-projekt-template-webapp
