@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRRajYf/kLMMgSDNOeyvC4PCKV8pNeC9Pv9RjkGSdHB4L4Y97+Wq9ulEUuuy/r/RSFJDcqkQoY7DsuoHdxT97A==",
+  "success": true,
+  "projectFilePath": "C:\\Kaiser\\WIT11d\\AEuP_Zie\\Luna-Projekt Team1\\Luna-Projekt Team1\\Luna-Projekt Team1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ro-soft3-srv.ger.muehlbauer.de:8082/repository/nuget-releases/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ro-soft3-srv.ger.muehlbauer.de:8082/repository/nuget.org-proxy/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
